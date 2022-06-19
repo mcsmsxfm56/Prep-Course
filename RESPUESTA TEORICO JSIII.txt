@@ -1,0 +1,5 @@
+un array es una coleccion de primitivas y las primitivas son los 7 tipos de datos de javascript(number, bigint, boolean, undefined, symbol, null, string)
+dentro de un array tambien pueden almacenarse estructuras de datos, objetos, otros arrays
+
+hablando practicamente se usan mas que nada para almacenar muchos datos u objetos en una sola variable, tambien sirven para modificar y manipular mas facilmente todos
+estos datos
