@@ -1,0 +1,14 @@
+for es un bucle que repite un bloque de codigo basandose en los siguientes argumentos:
+for(variable inicial; condicion; operacion){
+bloque de codigo
+}
+la variable inicial por lo general se usa como contador/acumulador para llevar registro de cuantas iteraciones lleva el bucle
+
+la condicion es una expresion que de ser true sigue ejecutando el bloque y de ser false termina la ejecucion (por lo general esta condicion evalua la variable inicial para detener el loop llegado a cierto numero de iteraciones)
+
+la operacion es una operacion matematica que se realiza al finalizar la ejecucion del bloque de codigo (por lo general suele ser que se le suma 1 al acumulador para llevar registro de la cantidad de iteraciones)
+
+&&, || y ! son operadores condicionales usados en expresiones que retornan un true o un false
+&& es true cuando las dos condiciones son verdaderas, solo basta que 1 sea falsa para que retorne false (condicion1 && condicion2)
+|| solo necesita que una condicion sea true para retornar true y solo retornara false cuando las dos lo sean (condicion1 || condicion2)
+! es el operador not que invierte los valores booleanos (!true=false !false=true)(por lo general se combina con = para indicar que algo es distinto de lo otro != significa "distinto de")
