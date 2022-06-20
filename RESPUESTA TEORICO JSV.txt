@@ -1,0 +1,9 @@
+PROTOTYPE:
+LOS PROTOTIPOS SON UNA PARTE DEL OBJETO DONDE SE ALMACENAN TODOS LOS METODOS DEL MISMO, LOS PROTOTIPOS TAMBIEN SON UN OBJETO, UN OBJETO DONDE SE ALMACENAN LOS METODOS
+DE LOS OBJETOS COMUNES, EJ: EL PROTOTIPO DE UN ARRAY VA A SER UN OBJETO LLAMADO ARRAY DONDE SE ALMACENARAN TODOS LOS METODOS QUE SE LE PUEDEN APLICAR A UN ARRAY (.push
+.bind .pop .shift)
+
+CONSTRUCTORES
+los constructores son funciones que construyen objetos, asi usando la keyword new inicias la funcion constructora y le pones los parametros necesarios para construir
+este nuevo objeto. En caso de que el usuario no defina los parametros a los constructores se le pueden poner parametros por defecto, en ES6 los constructores pasan a 
+ser conocidos como clases
